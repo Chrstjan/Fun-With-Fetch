@@ -1,2 +1,2 @@
-# Html-Boilerplate
-A Html Boilerplate
+# Fun With Fetch
+Fetching Dog API
